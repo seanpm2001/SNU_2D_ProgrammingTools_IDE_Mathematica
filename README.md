@@ -1,15 +1,15 @@
 
 ***
 
-# SNU-2D-ProgrammingTools-IDE-<languageNameWithHyphens>
+# SNU-2D-ProgrammingTools-IDE-Mathematica
 
-![{Project icon} This image failed to load. It may be due to the file not being reached, or a general error. Reload the page to fix a possible general error.](/LanguageLogo.svg)
+![Mathematica_Logo.png This image failed to load. It may be due to the file not being reached, or a general error. Reload the page to fix a possible general error.](/Mathematica_Logo.png)
 
 # By:
 
 ![SNU Logo: This image failed to load. It may be due to the file not being reached, or a general error. Reload the page to fix a possible general error.](SNU_blue_and_gold_legacy_icon.png)
 
-## [SNU Programming Tools](https://github.com/SNU-Programming-Tools), Et; Al.
+## [SNU Programming Tools](https://github.com/SNU-Programming-Tools/), Et; Al.
 
 ### Top
 
@@ -90,20 +90,20 @@ Translations are done with Google Translate due to limited or no support for the
 
 ***
 
-# SNU_2D_ProgrammingTools_IDE_<LanguageNameWithHyphens>
-The <LanguageName> Programming language IDE submodule for SNU Programming Tools (2D Mode) 
+# SNU_2D_ProgrammingTools_IDE_Mathematica
+The Mathematica Programming language IDE submodule for SNU Programming Tools (2D Mode) 
 
 ***
 
 ## About
 
-See above. This repository is the IDE for <LanguageName> that comes with SNUs programming tool set.
+See above. This repository is the IDE for Mathemtica that comes with SNUs programming tool set.
 
 ***
 
 ## Wiki
 
-[Click/tap here to view this projects Wiki](https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_<LanguageNameWithUnderscores>/wiki)
+[Click/tap here to view this projects Wiki](https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Mathematica/wiki)
 
 If the project has been forked, the Wiki was likely removed. Luckily, I include an embedded version. You can view it [here](/External/ProjectWiki/).
 
@@ -149,8 +149,8 @@ Image credit: [defectivebydesign.org/drm-free/...](https://www.defectivebydesign
 
 Currently, I am the only contributer. Contributing is allowed, as long as you follow the rules of the [CONTRIBUTING.md](/CONTRIBUTING.md) file.
 
-> * 1. [seanpm2001](https://github.com/seanpm2001/) - x commits (As of date, at xx:xx pm)
-
+> * 1. [seanpm2001](https://github.com/seanpm2001/) - 37 commits (As of Monday, 2021 August 16th at 4:48 pm)
+ 
 > * 2. No other contributers.
 
 ***
@@ -219,18 +219,11 @@ I archive my own issues. Your issue won't be archived unless you request it to b
 
 Here are some other resources for this project:
 
-[Project language file](PROJECT_LANG.md)
+[Project language file A](PROJECT_LANG_1.m)
 
-[Join the discussion on GitHub](https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_<LanguageNameWithUnderscores>/discussions)
+[Join the discussion on GitHub](https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Mathematica/discussions)
 
 No other resources at the moment.
-
-This is the first time I am using Markdown as a project language file, as I learned how to make the GitHub linguist recognize Markdown as a language. I found this out when snooping around on [Apple/Swift Evolution](https://github.com/apple/swift-evolution/blob/main/.gitattributes) if you want to do this yourself, simply add this to your `.gitattributes` file (if you haven't created one yet, make it now, do not add anything else to the file name but `.gitattributes`)
-
-```gitattributes
-*.md linguist-detectable=true
-*.md linguist-documentation=false
-```
 
 ***
 
@@ -246,9 +239,9 @@ Contributing is allowed for this project, as long as you follow the rules of the
 
 File type: `Markdown (*.md)`
 
-File version: `1 (date)`
+File version: `2 (Monday, August 16th 2021 at 4:48 pm)`
 
-Line count: `0,314`
+Line count: `0,333`
 
 ***
 
@@ -294,13 +287,39 @@ Version 1 (Date)
 
 > * No other changes in version 1
 
-Version 2 (Coming soon)
+Version 2 (Monday, August 16th 2021 at 4:48 pm)
+
+> Changes:
+
+> * Fixed template tag data
+
+> * Added the Mathematica logo
+
+> * Updated the contributors section
+
+> * Updated the resources section
+
+> * Updated the file info section
+
+> * Updated the file history section
+
+> * No other changes in version 2
+
+Version 3 (Coming soon)
 
 > Changes:
 
 > * Coming soon
 
-> * No other changes in version 2
+> * No other changes in version 3
+
+> Version 4 (Coming soon)
+
+> Changes:
+
+> * Coming soon
+
+> * No other changes in version 4
 
 ***
 
